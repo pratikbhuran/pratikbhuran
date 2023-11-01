@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratikbhuran
-- 🌱 VLSI Design Engineer
-<!--- 👀 I’m interested in --->  
+- 🌱 I'm a VLSI Design Engineer
 - 📫 contact me at pratikbhuran16@outlook.com
+- <!--- 👀 I’m interested in ---> 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
