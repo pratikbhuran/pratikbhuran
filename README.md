@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikbhuran
-- 👀 I’m interested in Electronics
-- 🌱 I’m currently learning VLSI Design and Verification
+- 🌱 VLSI Design Engineer
+<!--- 👀 I’m interested in --->  
 - 📫 contact me at pratikbhuran16@outlook.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
